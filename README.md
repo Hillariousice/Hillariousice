@@ -1,5 +1,5 @@
 # Hi there! 👋
- I'm Hillary Okporka, a Software Developer from Lagos, Nigeria.
+My name is Hillary Okporka, a Software Developer from Lagos, Nigeria.
 
  What I Do
  Web Development: Building and maintaining responsive, user-friendly web applications.
