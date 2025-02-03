@@ -8,7 +8,7 @@
 - **Open Source**: Passionate about actively building and contributing to open source projects.
 
 ### Technical Skills
-- **Languages**: HTML, CSS, JavaScript, TypeScript, SCSS
+- **Languages**: HTML, CSS, JavaScript, TypeScript, SCSS, C#
 - **Frameworks/Libraries**: React, Next.js, Nest.js, Express.js, Vue.js, Redux Toolkit, Styled-components, Tailwind CSS, React native
 - **Tools**: Git, GitHub, Jira, Slack, VSCode, Firebase, Vercel, Netlify, Postman, Google Docs, Dropbox
 - **Design**: Figma, Canva
