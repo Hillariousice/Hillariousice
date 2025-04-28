@@ -4,6 +4,7 @@
 
 ### What I Do
 - **Web Development**: Building and maintaining responsive, user-friendly web applications.
+- **Mobile Development**: Building and maintaining responsive, user-friendly mobile applications.
 - **Graphics Design**: Creating logos, flyers, banners, and beautiful layouts with strong branding strategies.
 - **Open Source**: Passionate about actively building and contributing to open source projects.
 
