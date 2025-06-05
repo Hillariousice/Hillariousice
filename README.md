@@ -13,7 +13,8 @@
 - **Frameworks/Libraries**: React, Next.js, Nest.js, Express.js, Vue.js, Redux Toolkit, Styled-components, Tailwind CSS, React native
 - **Tools**: Git, GitHub, Jira, Slack, VSCode, Firebase, Vercel, Netlify, Postman, Google Docs, Dropbox
 - **Design**: Figma, Canva
+  
 
 ### Connect with me
-- **[Portfolio](https://vercel.com/hillariousices-projects/job-on-go)** | **[X (Twitter)](https://twitter.com/clotidestark)**
+- **[Portfolio](https://job-on-go.vercel.app/)** | **[X (Twitter)](https://twitter.com/clotidestark)**
 
