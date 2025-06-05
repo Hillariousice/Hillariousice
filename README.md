@@ -15,5 +15,5 @@
 - **Design**: Figma, Canva
 
 ### Connect with me
-- **[Portfolio](#)** | **[X (Twitter)](https://twitter.com/clotidestark)**
+- **[Portfolio](https://vercel.com/hillariousices-projects/job-on-go)** | **[X (Twitter)](https://twitter.com/clotidestark)**
 
