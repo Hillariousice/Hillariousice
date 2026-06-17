@@ -17,3 +17,5 @@ React Native & Frontend Engineer based in Lagos, Nigeria, building performant cr
 [Portfolio](https://myreact-portfolio.vercel.app) · [LinkedIn](https://linkedin.com/in/hillary-okporka-348a23182) · [X (Twitter)](https://twitter.com/clotidestark)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hillariousice&show_icons=true&theme=default)
+
+Note: Professional work for clients is hosted on private/GitLab repositories per company policy. The activity below reflects personal and open-source projects.
