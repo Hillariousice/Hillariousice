@@ -1,20 +1,19 @@
-# Hi there! 👋
+### Hi, I'm Hillary 👋
+React Native & Frontend Engineer based in Lagos, Nigeria, building performant cross-platform mobile and web applications.
 
-**My name is Hillary Okporka**, and I am a Software Developer based in Lagos, Nigeria.
+**Currently**
+- 🚀 Building a full-stack digital Ajo (rotating savings) app — offline-first sync, biometric auth, real-time WebSocket feeds
+- 📱 Pursuing the Meta iOS Development Professional Certificate
+- 💼 Open to React Native & Frontend roles (remote or Lagos-based)
 
-### What I Do
-- **Web Development**: Building and maintaining responsive, user-friendly web applications.
-- **Mobile Development**: Building and maintaining responsive, user-friendly mobile applications.
-- **Graphics Design**: Creating logos, flyers, banners, and beautiful layouts with strong branding strategies.
-- **Open Source**: Passionate about actively building and contributing to open source projects.
+**Tech I work with**
+- **Languages:** JavaScript (ES6+), TypeScript, HTML, CSS
+- **Mobile:** React Native, Expo, React Navigation
+- **Frontend:** React, Next.js, Redux, Tailwind CSS
+- **Backend & APIs:** Node.js, Express, NestJS, RESTful APIs, Firebase
+- **Tools:** Git, GitHub, Jira, Postman, Swagger, Docker
 
-### Technical Skills
-- **Languages**: HTML, CSS, JavaScript, TypeScript, C#
-- **Frameworks/Libraries**: React, Next.js, Nest.js, Express.js, Vue.js, Redux Toolkit, Styled-components, Tailwind CSS, SCSS, React native
-- **Tools**: Git, GitHub, Jira, Slack, VSCode, Firebase, Vercel, Netlify, Postman, Google Docs, Dropbox
-- **Design**: Figma, Canva
-  
+**Find me**
+[Portfolio](https://myreact-portfolio.vercel.app) · [LinkedIn](https://linkedin.com/in/hillary-okporka-348a23182) · [X (Twitter)](https://twitter.com/clotidestark)
 
-### Connect with me
-- **[Portfolio](https://myreact-portfolio-git-portfolio-438142-hillariousices-projects.vercel.app)** | **[X (Twitter)](https://twitter.com/clotidestark)**
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hillariousice&show_icons=true&theme=default)
